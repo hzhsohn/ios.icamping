@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  CampingHelper
+
+  Created by Han Sohn on 12-1-10.
+  Copyright (c) 2012年 Han.zh. All rights reserved.
+*/
+
+CFBundleName="iCamping";
+CFBundleDisplayName="iCamping";

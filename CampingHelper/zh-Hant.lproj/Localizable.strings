@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Flashlight
+
+  Created by Han Sohn on 12-1-4.
+  Copyright (c) 2012年 Han.zh. All rights reserved.
+*/
+"AutoOpenFlashlight"="啟動程序時自動打開閃光燈";
+
+
+"compass_txtAngle"="角度";
+"compass_txtLatitude"="北緯";
+"compass_txtLongitude"="東經";
+
+"map_txtAngle"="角度";
+"map_txtLatitude"="北緯";
+"map_txtLongitude"="東經";
+
+"send_SMS"="我的坐標";
+"send_SMS_latitude"="北緯";
+"send_SMS_longitude"="東經";
+
+"timing_value_alert"="不能為0秒的，时间太短會導致閃光燈部件嚴重老化";
+
+"ok"="OK";
+"close"="關閉";
+"SMS_no_msg_func"="设备没有短信功能";
+"SMS_ios_version_old"="CiOS版本过低,iOS4.0以上才支持程序内发送短信";
+"SMS_send_fail"="短信发送失败";
+
+"no_flashlight_dev"="沒有手電筒功能設備";

@@ -1,0 +1,30 @@
+/* 
+ Localizable.strings
+ Flashlight
+ 
+ Created by Han Sohn on 12-1-4.
+ Copyright (c) 2012年 Han.zh. All rights reserved.
+ */
+"AutoOpenFlashlight"="Auto Start program Open Flashlight";
+
+"compass_txtAngle"="Angle";
+"compass_txtLatitude"="Latitude";
+"compass_txtLongitude"="Longitude";
+
+"map_txtAngle"="Angle";
+"map_txtLatitude"="Latitude";
+"map_txtLongitude"="Longitude";
+
+"send_SMS"="i am in here";
+"send_SMS_latitude"="latitude";
+"send_SMS_longitude"="longitude";
+
+"timing_value_alert"="Can not be 0 seconds, this will cause severe aging of the flash components";
+
+"ok"="OK";
+"close"="Close";
+"SMS_no_msg_func"="The device does not have text-messaging capabilities";
+"SMS_ios_version_old"="iOS version is too low the iOS4.0 above support within the program to send text messages";
+"SMS_send_fail"="SMS sending failure";
+
+"no_flashlight_dev"="Not have flashlight device";
